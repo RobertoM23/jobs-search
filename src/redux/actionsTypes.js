@@ -1,0 +1,6 @@
+export const ADD_TO_FAVOURITES = 'ADD_TO_FAVOURITES'
+export const REMOVE_FROM_FAVOURITES = 'REMOVE_FROM_FAVOURITES'
+
+export const SET_JOBS = 'SET_JOBS'
+export const SET_LOADING = 'SET_LOADING'
+export const SET_ERROR = 'SET_ERROR'
